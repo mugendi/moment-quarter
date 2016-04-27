@@ -7,8 +7,7 @@ var defaultLocale = 'KE'; //kenya
 var defaultStartMonth = numeric_month('April'); //april
 
 
-
-
+//This is where all the magic happens
 (function () {
 
 	function onload(moment) {
@@ -113,10 +112,7 @@ function titleCase(str) {
    return newstr;
 }
 
+//locale could be country name or ISO code
 module.extends = function quarter(locale){
-
-
-
-
 	return moment;
 }
