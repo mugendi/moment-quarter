@@ -13,6 +13,8 @@ var defaultStartMonth = numeric_month('April'); //april
 	function onload(moment) {
 		moment.fn.fquarter = function (locale_or_start) {
 
+			locale_or_start = locale_or_start || defaultStartMonth;
+
 			//if numeric
 			if(/^[0-9]+$/.test(locale_or_start)){
 				var startMonth = parseInt(locale_or_start);

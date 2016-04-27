@@ -1,6 +1,6 @@
 {
   "name": "moment-quarter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Get Fiscal Quarters for any countries and calculate custom quarters.",
   "main": "index.js",
   "scripts": {
