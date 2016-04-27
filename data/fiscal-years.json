@@ -1,0 +1,1101 @@
+{
+    "AF": {
+        "start": "December",
+        "end": "December",
+        "country": "Afghanistan"
+    },
+    "AL": {
+        "start": "January",
+        "end": "December",
+        "country": "Albania"
+    },
+    "DZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Algeria"
+    },
+    "AS": {
+        "start": "October",
+        "end": "September",
+        "country": "American Samoa"
+    },
+    "AD": {
+        "start": "January",
+        "end": "December",
+        "country": "Andorra"
+    },
+    "AO": {
+        "start": "January",
+        "end": "December",
+        "country": "Angola"
+    },
+    "AI": {
+        "start": "April",
+        "end": "March",
+        "country": "Anguilla"
+    },
+    "AG": {
+        "start": "April",
+        "end": "March",
+        "country": "Antigua and Barbuda"
+    },
+    "AR": {
+        "start": "January",
+        "end": "December",
+        "country": "Argentina"
+    },
+    "AM": {
+        "start": "January",
+        "end": "December",
+        "country": "Armenia"
+    },
+    "AW": {
+        "start": "January",
+        "end": "December",
+        "country": "Aruba"
+    },
+    "AU": {
+        "start": "July",
+        "end": "June",
+        "country": "Australia"
+    },
+    "AT": {
+        "start": "January",
+        "end": "December",
+        "country": "Austria"
+    },
+    "AZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Azerbaijan"
+    },
+    "BS": {
+        "start": "July",
+        "end": "June",
+        "country": "Bahamas"
+    },
+    "BH": {
+        "start": "January",
+        "end": "December",
+        "country": "Bahrain"
+    },
+    "BD": {
+        "start": "July",
+        "end": "June",
+        "country": "Bangladesh"
+    },
+    "BB": {
+        "start": "April",
+        "end": "March",
+        "country": "Barbados"
+    },
+    "BY": {
+        "start": "January",
+        "end": "December",
+        "country": "Belarus"
+    },
+    "BE": {
+        "start": "January",
+        "end": "December",
+        "country": "Belgium"
+    },
+    "BZ": {
+        "start": "April",
+        "end": "March",
+        "country": "Belize"
+    },
+    "BJ": {
+        "start": "January",
+        "end": "December",
+        "country": "Benin"
+    },
+    "BM": {
+        "start": "April",
+        "end": "March",
+        "country": "Bermuda"
+    },
+    "BT": {
+        "start": "July",
+        "end": "June",
+        "country": "Bhutan"
+    },
+    "BO": {
+        "start": "January",
+        "end": "December",
+        "country": "Bolivia"
+    },
+    "BA": {
+        "start": "January",
+        "end": "December",
+        "country": "Bosnia and Herzegovina"
+    },
+    "BW": {
+        "start": "April",
+        "end": "March",
+        "country": "Botswana"
+    },
+    "BR": {
+        "start": "January",
+        "end": "December",
+        "country": "Brazil"
+    },
+    "VG": {
+        "start": "April",
+        "end": "March",
+        "country": "British Virgin Islands"
+    },
+    "BN": {
+        "start": "April",
+        "end": "March",
+        "country": "Brunei Darussalam"
+    },
+    "BG": {
+        "start": "January",
+        "end": "December",
+        "country": "Bulgaria"
+    },
+    "BF": {
+        "start": "January",
+        "end": "December",
+        "country": "Burkina Faso"
+    },
+    "BI": {
+        "start": "January",
+        "end": "December",
+        "country": "Burundi"
+    },
+    "KH": {
+        "start": "January",
+        "end": "December",
+        "country": "Cambodia"
+    },
+    "CM": {
+        "start": "July",
+        "end": "June",
+        "country": "Cameroon"
+    },
+    "CA": {
+        "start": "April",
+        "end": "March",
+        "country": "Canada"
+    },
+    "CV": {
+        "start": "January",
+        "end": "December",
+        "country": "Cape Verde"
+    },
+    "KY": {
+        "start": "April",
+        "end": "March",
+        "country": "Cayman Islands"
+    },
+    "CF": {
+        "start": "January",
+        "end": "December",
+        "country": "Central African Republic"
+    },
+    "TD": {
+        "start": "January",
+        "end": "December",
+        "country": "Chad"
+    },
+    "CL": {
+        "start": "January",
+        "end": "December",
+        "country": "Chile"
+    },
+    "CN": {
+        "start": "January",
+        "end": "December",
+        "country": "China"
+    },
+    "CX": {
+        "start": "July",
+        "end": "June",
+        "country": "Christmas Island"
+    },
+    "CC": {
+        "start": "July",
+        "end": "June",
+        "country": "Cocos (Keeling) Islands"
+    },
+    "CO": {
+        "start": "January",
+        "end": "December",
+        "country": "Colombia"
+    },
+    "KM": {
+        "start": "January",
+        "end": "December",
+        "country": "Comoros"
+    },
+    "CD": {
+        "start": "January",
+        "end": "December",
+        "country": "Congo, Democratic Republic of the"
+    },
+    "CG": {
+        "start": "January",
+        "end": "December",
+        "country": "Congo (Brazzaville)"
+    },
+    "CK": {
+        "start": "April",
+        "end": "March",
+        "country": "Cook Islands"
+    },
+    "CR": {
+        "start": "January",
+        "end": "December",
+        "country": "Costa Rica"
+    },
+    "HR": {
+        "start": "January",
+        "end": "December",
+        "country": "Croatia"
+    },
+    "CU": {
+        "start": "January",
+        "end": "December",
+        "country": "Cuba"
+    },
+    "CY": {
+        "start": "January",
+        "end": "December",
+        "country": "Cyprus"
+    },
+    "CZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Czech Republic"
+    },
+    "DK": {
+        "start": "January",
+        "end": "December",
+        "country": "Denmark"
+    },
+    "DJ": {
+        "start": "January",
+        "end": "December",
+        "country": "Djibouti"
+    },
+    "DM": {
+        "start": "July",
+        "end": "June",
+        "country": "Dominica"
+    },
+    "DO": {
+        "start": "January",
+        "end": "December",
+        "country": "Dominican Republic"
+    },
+    "TL": {
+        "start": "January",
+        "end": "December",
+        "country": "Timor-Leste"
+    },
+    "EC": {
+        "start": "January",
+        "end": "December",
+        "country": "Ecuador"
+    },
+    "EG": {
+        "start": "July",
+        "end": "June",
+        "country": "Egypt"
+    },
+    "SV": {
+        "start": "January",
+        "end": "December",
+        "country": "El Salvador"
+    },
+    "GQ": {
+        "start": "January",
+        "end": "December",
+        "country": "Equatorial Guinea"
+    },
+    "ER": {
+        "start": "January",
+        "end": "December",
+        "country": "Eritrea"
+    },
+    "EE": {
+        "start": "January",
+        "end": "December",
+        "country": "Estonia"
+    },
+    "ET": {
+        "start": "July",
+        "end": "July",
+        "country": "Ethiopia"
+    },
+    "FK": {
+        "start": "April",
+        "end": "March",
+        "country": "Falkland Islands (Malvinas)"
+    },
+    "FO": {
+        "start": "January",
+        "end": "December",
+        "country": "Faroe Islands"
+    },
+    "FJ": {
+        "start": "January",
+        "end": "December",
+        "country": "Fiji"
+    },
+    "FI": {
+        "start": "January",
+        "end": "December",
+        "country": "Finland"
+    },
+    "FR": {
+        "start": "January",
+        "end": "December",
+        "country": "France"
+    },
+    "PF": {
+        "start": "January",
+        "end": "December",
+        "country": "French Polynesia"
+    },
+    "GA": {
+        "start": "January",
+        "end": "December",
+        "country": "Gabon"
+    },
+    "GM": {
+        "start": "January",
+        "end": "December",
+        "country": "Gambia"
+    },
+    "PS": {
+        "start": "January",
+        "end": "December",
+        "country": "Palestinian Territory, Occupied"
+    },
+    "GE": {
+        "start": "January",
+        "end": "December",
+        "country": "Georgia"
+    },
+    "DE": {
+        "start": "January",
+        "end": "December",
+        "country": "Germany"
+    },
+    "GH": {
+        "start": "January",
+        "end": "December",
+        "country": "Ghana"
+    },
+    "GI": {
+        "start": "July",
+        "end": "June",
+        "country": "Gibraltar"
+    },
+    "GR": {
+        "start": "January",
+        "end": "December",
+        "country": "Greece"
+    },
+    "GL": {
+        "start": "January",
+        "end": "December",
+        "country": "Greenland"
+    },
+    "GD": {
+        "start": "January",
+        "end": "December",
+        "country": "Grenada"
+    },
+    "GU": {
+        "start": "October",
+        "end": "September",
+        "country": "Guam"
+    },
+    "GT": {
+        "start": "January",
+        "end": "December",
+        "country": "Guatemala"
+    },
+    "GG": {
+        "start": "January",
+        "end": "December",
+        "country": "Guernsey"
+    },
+    "GN": {
+        "start": "January",
+        "end": "December",
+        "country": "Guinea"
+    },
+    "GW": {
+        "start": "January",
+        "end": "December",
+        "country": "Guinea-Bissau"
+    },
+    "GY": {
+        "start": "January",
+        "end": "December",
+        "country": "Guyana"
+    },
+    "HT": {
+        "start": "October",
+        "end": "September",
+        "country": "Haiti"
+    },
+    "VA": {
+        "start": "January",
+        "end": "December",
+        "country": "Holy See (Vatican City State)"
+    },
+    "HN": {
+        "start": "January",
+        "end": "December",
+        "country": "Honduras"
+    },
+    "HK": {
+        "start": "April",
+        "end": "March",
+        "country": "Hong Kong, Special Administrative Region of China"
+    },
+    "HU": {
+        "start": "January",
+        "end": "December",
+        "country": "Hungary"
+    },
+    "IS": {
+        "start": "January",
+        "end": "December",
+        "country": "Iceland"
+    },
+    "IN": {
+        "start": "April",
+        "end": "March",
+        "country": "India"
+    },
+    "ID": {
+        "start": "January",
+        "end": "December",
+        "country": "Indonesia"
+    },
+    "IR": {
+        "start": "March",
+        "end": "March",
+        "country": "Iran, Islamic Republic of"
+    },
+    "IQ": {
+        "start": "January",
+        "end": "December",
+        "country": "Iraq"
+    },
+    "IE": {
+        "start": "January",
+        "end": "December",
+        "country": "Ireland"
+    },
+    "IM": {
+        "start": "April",
+        "end": "March",
+        "country": "Isle of Man"
+    },
+    "IL": {
+        "start": "January",
+        "end": "December",
+        "country": "Israel"
+    },
+    "IT": {
+        "start": "January",
+        "end": "December",
+        "country": "Italy"
+    },
+    "JM": {
+        "start": "April",
+        "end": "March",
+        "country": "Jamaica"
+    },
+    "JP": {
+        "start": "April",
+        "end": "March",
+        "country": "Japan"
+    },
+    "JE": {
+        "start": "April",
+        "end": "March",
+        "country": "Jersey"
+    },
+    "JO": {
+        "start": "January",
+        "end": "December",
+        "country": "Jordan"
+    },
+    "KZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Kazakhstan"
+    },
+    "KE": {
+        "start": "July",
+        "end": "June",
+        "country": "Kenya"
+    },
+    "KI": ":NA",
+    "KR": {
+        "start": "January",
+        "end": "December",
+        "country": "Korea, Republic of"
+    },
+    "KP": {
+        "start": "January",
+        "end": "December",
+        "country": "Korea, Democratic People's Republic of"
+    },
+    "KW": {
+        "start": "April",
+        "end": "March",
+        "country": "Kuwait"
+    },
+    "KG": {
+        "start": "January",
+        "end": "December",
+        "country": "Kyrgyzstan"
+    },
+    "LV": {
+        "start": "January",
+        "end": "December",
+        "country": "Latvia"
+    },
+    "LB": {
+        "start": "January",
+        "end": "December",
+        "country": "Lebanon"
+    },
+    "LS": {
+        "start": "April",
+        "end": "March",
+        "country": "Lesotho"
+    },
+    "LR": {
+        "start": "January",
+        "end": "December",
+        "country": "Liberia"
+    },
+    "LY": {
+        "start": "January",
+        "end": "December",
+        "country": "Libya"
+    },
+    "LI": {
+        "start": "January",
+        "end": "December",
+        "country": "Liechtenstein"
+    },
+    "LT": {
+        "start": "January",
+        "end": "December",
+        "country": "Lithuania"
+    },
+    "LU": {
+        "start": "January",
+        "end": "December",
+        "country": "Luxembourg"
+    },
+    "MK": {
+        "start": "January",
+        "end": "December",
+        "country": "Macedonia, Republic of"
+    },
+    "MG": {
+        "start": "January",
+        "end": "December",
+        "country": "Madagascar"
+    },
+    "MW": {
+        "start": "July",
+        "end": "June",
+        "country": "Malawi"
+    },
+    "MY": {
+        "start": "January",
+        "end": "December",
+        "country": "Malaysia"
+    },
+    "MV": {
+        "start": "January",
+        "end": "December",
+        "country": "Maldives"
+    },
+    "ML": {
+        "start": "January",
+        "end": "December",
+        "country": "Mali"
+    },
+    "MT": {
+        "start": "January",
+        "end": "December",
+        "country": "Malta"
+    },
+    "MH": {
+        "start": "October",
+        "end": "September",
+        "country": "Marshall Islands"
+    },
+    "MR": {
+        "start": "January",
+        "end": "December",
+        "country": "Mauritania"
+    },
+    "MU": {
+        "start": "July",
+        "end": "June",
+        "country": "Mauritius"
+    },
+    "MX": {
+        "start": "January",
+        "end": "December",
+        "country": "Mexico"
+    },
+    "FM": {
+        "start": "October",
+        "end": "September",
+        "country": "Micronesia, Federated States of"
+    },
+    "MD": {
+        "start": "January",
+        "end": "December",
+        "country": "Moldova"
+    },
+    "MC": {
+        "start": "January",
+        "end": "December",
+        "country": "Monaco"
+    },
+    "MN": {
+        "start": "January",
+        "end": "December",
+        "country": "Mongolia"
+    },
+    "ME": {
+        "start": "January",
+        "end": "December",
+        "country": "Montenegro"
+    },
+    "MS": {
+        "start": "April",
+        "end": "March",
+        "country": "Montserrat"
+    },
+    "MA": {
+        "start": "January",
+        "end": "December",
+        "country": "Morocco"
+    },
+    "MZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Mozambique"
+    },
+    "NA": {
+        "start": "April",
+        "end": "March",
+        "country": "Namibia"
+    },
+    "NR": {
+        "start": "July",
+        "end": "June",
+        "country": "Nauru"
+    },
+    "NP": {
+        "start": "July",
+        "end": "July",
+        "country": "Nepal"
+    },
+    "NL": {
+        "start": "January",
+        "end": "December",
+        "country": "Netherlands"
+    },
+    "NC": {
+        "start": "January",
+        "end": "December",
+        "country": "New Caledonia"
+    },
+    "NZ": ":1 April - 31 March ",
+    "NI": {
+        "start": "January",
+        "end": "December",
+        "country": "Nicaragua"
+    },
+    "NE": {
+        "start": "January",
+        "end": "December",
+        "country": "Niger"
+    },
+    "NG": {
+        "start": "January",
+        "end": "December",
+        "country": "Nigeria"
+    },
+    "NU": {
+        "start": "April",
+        "end": "March",
+        "country": "Niue"
+    },
+    "NF": {
+        "start": "July",
+        "end": "June",
+        "country": "Norfolk Island"
+    },
+    "MP": {
+        "start": "October",
+        "end": "September",
+        "country": "Northern Mariana Islands"
+    },
+    "NO": {
+        "start": "January",
+        "end": "December",
+        "country": "Norway"
+    },
+    "OM": {
+        "start": "January",
+        "end": "December",
+        "country": "Oman"
+    },
+    "PK": {
+        "start": "July",
+        "end": "June",
+        "country": "Pakistan"
+    },
+    "PW": {
+        "start": "October",
+        "end": "September",
+        "country": "Palau"
+    },
+    "PA": {
+        "start": "January",
+        "end": "December",
+        "country": "Panama"
+    },
+    "PG": {
+        "start": "January",
+        "end": "December",
+        "country": "Papua New Guinea"
+    },
+    "PY": {
+        "start": "January",
+        "end": "December",
+        "country": "Paraguay"
+    },
+    "PE": {
+        "start": "January",
+        "end": "December",
+        "country": "Peru"
+    },
+    "PH": {
+        "start": "January",
+        "end": "December",
+        "country": "Philippines"
+    },
+    "PN": {
+        "start": "April",
+        "end": "March",
+        "country": "Pitcairn"
+    },
+    "PL": {
+        "start": "January",
+        "end": "December",
+        "country": "Poland"
+    },
+    "PT": {
+        "start": "January",
+        "end": "December",
+        "country": "Portugal"
+    },
+    "PR": {
+        "start": "July",
+        "end": "June",
+        "country": "Puerto Rico"
+    },
+    "QA": {
+        "start": "April",
+        "end": "March",
+        "country": "Qatar"
+    },
+    "RO": {
+        "start": "January",
+        "end": "December",
+        "country": "Romania"
+    },
+    "RU": {
+        "start": "January",
+        "end": "December",
+        "country": "Russian Federation"
+    },
+    "RW": {
+        "start": "January",
+        "end": "December",
+        "country": "Rwanda"
+    },
+    "SH": {
+        "start": "April",
+        "end": "March",
+        "country": "Saint Helena"
+    },
+    "KN": {
+        "start": "January",
+        "end": "December",
+        "country": "Saint Kitts and Nevis"
+    },
+    "LC": {
+        "start": "April",
+        "end": "March",
+        "country": "Saint Lucia"
+    },
+    "PM": {
+        "start": "January",
+        "end": "December",
+        "country": "Saint Pierre and Miquelon"
+    },
+    "VC": {
+        "start": "January",
+        "end": "December",
+        "country": "Saint Vincent and Grenadines"
+    },
+    "WS": ":June 1 - May 31",
+    "SM": {
+        "start": "January",
+        "end": "December",
+        "country": "San Marino"
+    },
+    "ST": {
+        "start": "January",
+        "end": "December",
+        "country": "Sao Tome and Principe"
+    },
+    "SA": {
+        "start": "January",
+        "end": "December",
+        "country": "Saudi Arabia"
+    },
+    "SN": {
+        "start": "January",
+        "end": "December",
+        "country": "Senegal"
+    },
+    "SC": {
+        "start": "January",
+        "end": "December",
+        "country": "Seychelles"
+    },
+    "SL": {
+        "start": "January",
+        "end": "December",
+        "country": "Sierra Leone"
+    },
+    "SG": {
+        "start": "April",
+        "end": "March",
+        "country": "Singapore"
+    },
+    "SK": {
+        "start": "January",
+        "end": "December",
+        "country": "Slovakia"
+    },
+    "SI": {
+        "start": "January",
+        "end": "December",
+        "country": "Slovenia"
+    },
+    "SB": {
+        "start": "January",
+        "end": "December",
+        "country": "Solomon Islands"
+    },
+    "SO": ":NA",
+    "ZA": {
+        "start": "April",
+        "end": "March",
+        "country": "South Africa"
+    },
+    "ES": {
+        "start": "January",
+        "end": "December",
+        "country": "Spain"
+    },
+    "LK": {
+        "start": "January",
+        "end": "December",
+        "country": "Sri Lanka"
+    },
+    "SD": {
+        "start": "January",
+        "end": "December",
+        "country": "Sudan"
+    },
+    "SR": {
+        "start": "January",
+        "end": "December",
+        "country": "Suriname *"
+    },
+    "SZ": {
+        "start": "April",
+        "end": "March",
+        "country": "Swaziland"
+    },
+    "SE": {
+        "start": "January",
+        "end": "December",
+        "country": "Sweden"
+    },
+    "CH": {
+        "start": "January",
+        "end": "December",
+        "country": "Switzerland"
+    },
+    "SY": {
+        "start": "January",
+        "end": "December",
+        "country": "Syrian Arab Republic (Syria)"
+    },
+    "TW": {
+        "start": "January",
+        "end": "December",
+        "country": "Taiwan, Republic of China"
+    },
+    "TJ": {
+        "start": "January",
+        "end": "December",
+        "country": "Tajikistan"
+    },
+    "TZ": {
+        "start": "July",
+        "end": "June",
+        "country": "Tanzania *, United Republic of"
+    },
+    "TH": {
+        "start": "October",
+        "end": "September",
+        "country": "Thailand"
+    },
+    "TG": {
+        "start": "January",
+        "end": "December",
+        "country": "Togo"
+    },
+    "TK": {
+        "start": "April",
+        "end": "March",
+        "country": "Tokelau"
+    },
+    "TO": {
+        "start": "July",
+        "end": "June",
+        "country": "Tonga"
+    },
+    "TT": {
+        "start": "October",
+        "end": "September",
+        "country": "Trinidad and Tobago"
+    },
+    "TN": {
+        "start": "January",
+        "end": "December",
+        "country": "Tunisia"
+    },
+    "TR": {
+        "start": "January",
+        "end": "December",
+        "country": "Turkey"
+    },
+    "TM": {
+        "start": "January",
+        "end": "December",
+        "country": "Turkmenistan"
+    },
+    "TC": {
+        "start": "January",
+        "end": "December",
+        "country": "Turks and Caicos Islands"
+    },
+    "TV": {
+        "start": "January",
+        "end": "December",
+        "country": "Tuvalu"
+    },
+    "UG": {
+        "start": "July",
+        "end": "June",
+        "country": "Uganda"
+    },
+    "UA": {
+        "start": "January",
+        "end": "December",
+        "country": "Ukraine"
+    },
+    "AE": {
+        "start": "January",
+        "end": "December",
+        "country": "United Arab Emirates"
+    },
+    "GB": {
+        "start": "April",
+        "end": "April",
+        "country": "United Kingdom"
+    },
+    "US": {
+        "start": "October",
+        "end": "September",
+        "country": "United States of America"
+    },
+    "UY": {
+        "start": "January",
+        "end": "December",
+        "country": "Uruguay"
+    },
+    "UZ": {
+        "start": "January",
+        "end": "December",
+        "country": "Uzbekistan"
+    },
+    "VU": {
+        "start": "January",
+        "end": "December",
+        "country": "Vanuatu"
+    },
+    "VE": {
+        "start": "January",
+        "end": "December",
+        "country": "Venezuela (Bolivarian Republic of)"
+    },
+    "VI": {
+        "start": "October",
+        "end": "September",
+        "country": "Virgin Islands, US"
+    },
+    "WF": {
+        "start": "January",
+        "end": "December",
+        "country": "Wallis and Futuna Islands"
+    },
+    "EH": {
+        "start": "January",
+        "end": "December",
+        "country": "Western Sahara"
+    },
+    "YE": {
+        "start": "January",
+        "end": "December",
+        "country": "Yemen"
+    },
+    "ZM": {
+        "start": "January",
+        "end": "December",
+        "country": "Zambia"
+    },
+    "ZW": {
+        "start": "January",
+        "end": "December",
+        "country": "Zimbabwe"
+    }
+}

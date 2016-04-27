@@ -1,0 +1,25 @@
+{
+  "name": "moment-quarter",
+  "version": "1.0.0",
+  "description": "Get Fiscal Quarters for any countries and calculate custom quarters.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "moment",
+    "time",
+    "quarter",
+    "fiscal",
+    "financial",
+    "date",
+    "country",
+    "year"
+  ],
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "country-code": "0.0.3",
+    "moment": "^2.13.0"
+  }
+}
